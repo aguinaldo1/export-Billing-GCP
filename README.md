@@ -1,2 +1,2 @@
-# export-Billing-GCP
-Exportação do Billing na Google Cloud Platform
+# Exportação do Billing na Google Cloud Platform - GCP
+
